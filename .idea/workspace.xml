@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e36b2083-10ae-4b15-b909-31d45f7a5451" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/bus_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/bus_line.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/s_input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\View" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bus_line">
+  <component name="RunManager" selected="Python.template - 복사본">
     <configuration name="Flatten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,8 +149,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bus_line" />
         <item itemvalue="Python.template - 복사본" />
+        <item itemvalue="Python.bus_line" />
         <item itemvalue="Python.Flatten" />
         <item itemvalue="Python.direction" />
         <item itemvalue="Python.prime_factor" />
