@@ -41,8 +41,8 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\View" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.kill_bug">
-    <configuration name="bus_line" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.balloon">
+    <configuration name="balloon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/풍선팡2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/bus_line.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/풍선팡2/balloon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.balloon" />
+        <item itemvalue="Python.template - 복사본" />
         <item itemvalue="Python.kill_bug" />
         <item itemvalue="Python.purple" />
-        <item itemvalue="Python.template - 복사본" />
         <item itemvalue="Python.max_sum" />
-        <item itemvalue="Python.bus_line" />
       </list>
     </recent_temporary>
   </component>
