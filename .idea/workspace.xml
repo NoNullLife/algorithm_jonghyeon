@@ -41,7 +41,7 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\View" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.template - 복사본">
+  <component name="RunManager" selected="Python.purple">
     <configuration name="Flatten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="direction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="max_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/4방향" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/2일차 - Sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/4방향/direction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/2일차 - Sum/max_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_factor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="purple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/소인수분해" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/색칠하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/소인수분해/prime_factor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/색칠하기/purple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.purple" />
         <item itemvalue="Python.template - 복사본" />
+        <item itemvalue="Python.max_sum" />
         <item itemvalue="Python.bus_line" />
         <item itemvalue="Python.Flatten" />
-        <item itemvalue="Python.direction" />
-        <item itemvalue="Python.prime_factor" />
       </list>
     </recent_temporary>
   </component>
