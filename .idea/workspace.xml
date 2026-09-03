@@ -4,11 +4,7 @@
     <list default="true" id="e36b2083-10ae-4b15-b909-31d45f7a5451" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/강의자료/0901/4831전기버스_추가TC.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/강의자료/0901/babygin_greedy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/강의자료/0901/bubble.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/강의자료/0901/counting_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/강의자료/0901/gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -46,8 +43,8 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\View" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.subset">
-    <configuration name="balloon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ladder (1)">
+    <configuration name="Ladder (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/풍선팡2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/Ladder1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/풍선팡2/balloon.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/Ladder1/Ladder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ladder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/Ladder1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\Ladder1\Ladder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="subset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="max_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/자료/0902" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/2일차 - Sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/자료/0902/subset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/2일차 - Sum/max_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="template - 복사본" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_space" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/template - 복사본.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_space/template.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,10 +151,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.subset" />
-        <item itemvalue="Python.exercise" />
-        <item itemvalue="Python.balloon" />
-        <item itemvalue="Python.template - 복사본" />
+        <item itemvalue="Python.Ladder (1)" />
+        <item itemvalue="Python.template" />
+        <item itemvalue="Python.Ladder" />
+        <item itemvalue="Python.max_sum" />
         <item itemvalue="Python.kill_bug" />
       </list>
     </recent_temporary>
