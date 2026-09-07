@@ -4,8 +4,7 @@
     <list default="true" id="e36b2083-10ae-4b15-b909-31d45f7a5451" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/문제풀이/Ladder1/Ladder.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/Ladder1/Ladder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/bus_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/bus_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제풀이/가장 빠른 문자열 타이핑/fest_typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/가장 빠른 문자열 타이핑/fest_typing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\View" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ladder (1)">
+  <component name="RunManager" selected="Python.fest_typing">
     <configuration name="Ladder (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kill_bug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fest_typing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/파리 퇴치" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/가장 빠른 문자열 타이핑" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/파리 퇴치/kill_bug.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/가장 빠른 문자열 타이핑/fest_typing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fest_typing" />
         <item itemvalue="Python.Ladder (1)" />
         <item itemvalue="Python.template" />
         <item itemvalue="Python.Ladder" />
         <item itemvalue="Python.max_sum" />
-        <item itemvalue="Python.kill_bug" />
       </list>
     </recent_temporary>
   </component>
