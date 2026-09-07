@@ -42,7 +42,7 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\View" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.subset">
+  <component name="RunManager" selected="Python.compare_string">
     <configuration name="GNS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fest_typing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="compare_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/가장 빠른 문자열 타이핑" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/문자열 비교" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/가장 빠른 문자열 타이핑/fest_typing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/문자열 비교/compare_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.compare_string" />
         <item itemvalue="Python.subset" />
         <item itemvalue="Python.GNS" />
         <item itemvalue="Python.Ladder (1)" />
         <item itemvalue="Python.pattern" />
-        <item itemvalue="Python.fest_typing" />
       </list>
     </recent_temporary>
   </component>
