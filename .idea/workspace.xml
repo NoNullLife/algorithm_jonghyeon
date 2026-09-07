@@ -4,7 +4,8 @@
     <list default="true" id="e36b2083-10ae-4b15-b909-31d45f7a5451" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제풀이/Ladder1/Ladder.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/Ladder1/Ladder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/bus_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/삼성시의 버스 노선/bus_line.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
