@@ -12,9 +12,9 @@ def find_pattern(str1, str2):
                 trigger = False
                 break
         if trigger:
-            return 1
+            return i
 
-    return 0
+    return -1
 
 
 T = int(input())
