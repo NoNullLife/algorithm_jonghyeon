@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e36b2083-10ae-4b15-b909-31d45f7a5451" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제풀이/러시아 국기 같은 깃발/flag.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/러시아 국기 같은 깃발/flag.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\View" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Pascal_tri">
+  <component name="RunManager" selected="Python.flag">
     <configuration name="GNS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Pascal_tri" />
         <item itemvalue="Python.flag" />
+        <item itemvalue="Python.Pascal_tri" />
         <item itemvalue="Python.drink" />
         <item itemvalue="Python.GNS" />
         <item itemvalue="Python.reflection" />
