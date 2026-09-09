@@ -2,6 +2,9 @@ import sys
 sys.stdin = open("sample_input.txt", "r")
 
 
+def DFS_with_stack():
+    pass
+
 
 T = int(input())
 for test_case in range(T):
