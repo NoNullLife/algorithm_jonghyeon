@@ -7,4 +7,4 @@ def fibo2(n) :
 
     return f[n]
 
-print(fibo2(10))
+print(fibo2(100))

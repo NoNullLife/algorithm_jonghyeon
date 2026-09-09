@@ -20,3 +20,5 @@ for test_case in range(T):
     N = int(input())
     print(f'#{test_case + 1}')
     Pascal_tri(N)
+
+

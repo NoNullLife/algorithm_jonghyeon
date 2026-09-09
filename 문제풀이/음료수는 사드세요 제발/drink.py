@@ -10,6 +10,7 @@ sys.stdin = open("3_sample_input.txt", "r")
 
 
 
+
 T = int(input())
 for test_case in range(T):
     N, M = map(int, input().split())
