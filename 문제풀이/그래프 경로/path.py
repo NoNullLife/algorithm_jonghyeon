@@ -7,30 +7,32 @@ def DFS_with_stack(V, L, start, end):
     for i in L:
         graph[i[0]].append(i[1])
 
-    visited = [start]
+    visited = [False]*(V+1)
+    visited[start] = True
     stack = []
     current_node = start
-    while True:
 
+    while True:
         trigger = True
         for next_node in graph[current_node]:
-            if next_node in visited:
-                continue
-            else:
-                stack.append(current_node)
-                visited.append(next_node)
-                current_node = next_node
+            if not visited[next_node]:
                 trigger = False
-                break
+                stack.append(current_node)
+                current_node = next_node
+                visited[current_node] = True
 
         if trigger:
+
             if stack == []:
-                return 0
+                break
             else:
                 current_node = stack.pop()
 
         if current_node == end:
             return 1
+
+    return 0
+
 
 
 
