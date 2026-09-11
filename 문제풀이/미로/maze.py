@@ -33,7 +33,6 @@ def maze(N, L):
     visited = [[False] * N for _ in range(N)]
 
     # 시작점(2) 찾기
-    start_r, start_c = -1, -1
     for r in range(N):
         for c in range(N):
             if L[r][c] == 2:

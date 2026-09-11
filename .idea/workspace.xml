@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e36b2083-10ae-4b15-b909-31d45f7a5451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/문제풀이/미로/maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/문제풀이/미로/sample_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문제풀이/미로/maze.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/미로/maze.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
