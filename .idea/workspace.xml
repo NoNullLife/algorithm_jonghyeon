@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e36b2083-10ae-4b15-b909-31d45f7a5451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/문제풀이/그래프 경로/path_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문제풀이/미로/maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문제풀이/미로/sample_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_space/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_space/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/문제풀이/그래프 경로/path.py" beforeDir="false" afterPath="$PROJECT_DIR$/문제풀이/그래프 경로/path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/자료/5_Stack2/가지치기_부분집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/자료/5_Stack2/가지치기_부분집합.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +41,14 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\괄호검사" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\미로" />
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\그래프 경로" />
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\괄호검사" />
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon" />
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\충전식 버스" />
-      <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\Flatten" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.path_2">
+  <component name="RunManager" selected="Python.maze">
     <configuration name="순열2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,6 +83,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/자료/5_Stack2/가지치기_부분집합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_jonghyeon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/미로" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/미로/maze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,34 +154,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="permutation_backtrack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_jonghyeon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/자료/5_Stack2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/자료/5_Stack2/permutation_backtrack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.maze" />
         <item itemvalue="Python.path_2" />
         <item itemvalue="Python.path" />
         <item itemvalue="Python.순열2" />
         <item itemvalue="Python.가지치기_부분집합" />
-        <item itemvalue="Python.permutation_backtrack" />
       </list>
     </recent_temporary>
   </component>
