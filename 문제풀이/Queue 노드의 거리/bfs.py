@@ -21,12 +21,12 @@ def f(graph, V, S, G):
     que.append(S)
 
     while que:
-        t = que.popleft()
+        current_node = que.popleft()
 
-        for next_node in graph[t]:
+        for next_node in graph[current_node]:
             if not visited[next_node]:
                 que.append(next_node)
-                visited[next_node] = visited[t] + 1
+                visited[next_node] = visited[current_node] + 1
 
     return visited[G]
 
