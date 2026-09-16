@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e36b2083-10ae-4b15-b909-31d45f7a5451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/문제풀이/Queue 회전/rotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/문제풀이/Queue 회전/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문제풀이/Queue 노드의 거리/bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문제풀이/Queue 노드의 거리/sample_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +44,15 @@
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\괄호검사" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\Queue 노드의 거리" />
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\Queue 회전" />
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\피자 굽기" />
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\미로" />
       <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\그래프 경로" />
-      <recent name="C:\Users\SSAFY\Desktop\algorithm_jonghyeon\문제풀이\괄호검사" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rotation">
-    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bfs">
+    <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_jonghyeon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/오목 판정" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문제풀이/Queue 노드의 거리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/오목 판정/5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문제풀이/Queue 노드의 거리/bfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bfs" />
         <item itemvalue="Python.rotation" />
         <item itemvalue="Python.pizza2" />
         <item itemvalue="Python.pizza" />
         <item itemvalue="Python.tournament" />
-        <item itemvalue="Python.5" />
       </list>
     </recent_temporary>
   </component>
