@@ -7,10 +7,13 @@ from collections import deque
 def L_to_graph(L, V, E):
     """간선 정보를 그래프로 가공"""
 
+    # V는 노드의 개수이다.
     graph = [[] for _ in range(V + 1)]
+
+    # E는 간선의 개수이다.
     for i in range(E):
 
-        # 간선이 양방향이므로 양쪽으로 연결이 가능해야한다.
+        # 각각의 간선이 양방향이므로 양쪽에서 이동 가능 목록에 추가를 해주어야한다.
         graph[L[i][0]].append(L[i][1])
         graph[L[i][1]].append(L[i][0])
 
@@ -20,6 +23,7 @@ def L_to_graph(L, V, E):
 def bfs(graph, V, S, G):
 
     # 체크리스트 및 큐우 생성, 시작점 append
+    # V는 노드의 개수
     visited = [0] * (V + 1)  # 그런데 왜 V+1인 것????? 인덱싱 바로 하려고????  <- 네.
     que = deque()
     que.append(S)
@@ -45,7 +49,8 @@ def bfs(graph, V, S, G):
         # 탐색 수행
         for next_node in graph[current_node]:
 
-            # 방문 안한 노드는 que에 추가를 해주어야한다.
+            # 다음 노드 목록에서 방문 안한 노드들은 enqueue를 해주어야한다.
+            # 다음 루프에서, dequeue하여, current_node에 할당될 것이다.
             if not visited[next_node]:
                 que.append(next_node)
 
@@ -56,6 +61,7 @@ def bfs(graph, V, S, G):
                 """
                 visited[next_node] = visited[current_node] + 1
 
+    # while루프가 모두 소모될 동안, current_node가 목적지 G가 되는 조건에 걸리지 않은 경우,
     return 0
 
 
