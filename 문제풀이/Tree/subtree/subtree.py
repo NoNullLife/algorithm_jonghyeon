@@ -4,9 +4,6 @@ sys.stdin = open("sample_input.txt", "r")
 
 def cnt_node(graph, current_node):
     cnt = 1
-    if graph[current_node] == []:
-        return cnt
-
     for next_node in graph[current_node]:
         cnt += cnt_node(graph, next_node)
 
