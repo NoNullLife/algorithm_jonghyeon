@@ -8,7 +8,7 @@ T = int(input())
 for test_case in range(T):
     E, N = map(int, input().split())
     L = list(map(int, input().split()))
-    graph = {}
+    graph = [[] for _ in range(E+2)]
     for i in range(E):
-        graph.setdefault(L[2 * i], []).append(L[2 * i + 1])
+        graph[L[2 * i]].append(L[2 * i + 1])
     print(f'#{test_case + 1}', graph)
